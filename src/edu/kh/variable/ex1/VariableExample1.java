@@ -36,6 +36,7 @@ public class VariableExample1 {
 		System.out.println(pi * r * r * h);
 		System.out.println(4 * pi * r * r);
 		
+		후
 	}
 
 }
