@@ -72,8 +72,12 @@ public class PrintExample {
 		System.out.println("\\\n"); // 백슬래시(역슬래시) 출력 방법
 		// \o/
 		System.out.println("\\o/\n");
+		
 		// 홑따옴표 ( ' )
 		System.out.println("\'"); // 홀따옴표 출력 방법
+
+		// 쌍따옴표 ( " )
+		System.out.println("\""); // 쌍따옴표 출력 방법
 		
 		System.out.println("a\tb\tc\td\n");
 		// \t (tab출력) : 한공간씩 표현X, 한번에 공간차지
